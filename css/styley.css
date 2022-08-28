@@ -1,5 +1,5 @@
 .background-fundo {
-    background: url(../image/fundo.png.jpg) no-repeat center bottom;
+    background: url(../image/fundo.png.png) repeat-x center bottom;
     background-size: contain;
 }
 
